@@ -20,9 +20,3 @@ while(True):
     response = model.invoke(prompt)
     print("\nAI:")
     print(response.content)
-
-    
-    
-
-
-
